@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Vertus, Santorini Hotel !</h1>
+</body>
+</html>
